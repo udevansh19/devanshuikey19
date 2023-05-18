@@ -1,0 +1,120 @@
+body {
+    border: none;
+    padding: none;
+    margin: none;
+    background-color: rgb(162, 241, 252);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-left: 0;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(117, 117, 117));
+    padding-bottom: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+}
+
+.logo_button {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 3px;
+    background-image: linear-gradient(to right, rgb(0, 0, 255), rgb(0, 217, 255));
+}
+
+.first {
+    position: fixed;
+}
+
+.first_button {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 3px;
+    background-image: linear-gradient(to right, rgb(0, 217, 255), rgb(0, 0, 255));
+}
+
+.project_1 {
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: xx-large;
+}
+
+.project_2 {
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: x-large;
+    color: blue;
+
+}
+
+.flex2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 125px;
+}
+
+.info_links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.link1 {
+    color: black;
+}
+
+.link2 {
+    color: black;
+}
+
+.link0 {
+    color: black;
+}
+
+.name {
+    font-size: xx-large;
+}
